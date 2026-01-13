@@ -1,0 +1,272 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CSharp\\ImagensBD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F6A29F5-998F-4CB5-A17A-1C9F95DC466C}|ImagensBD\\ImagensBD.csproj|e:\\csharp\\imagensbd\\imagensbd\\.gitgnore||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0F6A29F5-998F-4CB5-A17A-1C9F95DC466C}|ImagensBD\\ImagensBD.csproj|solutionrelative:imagensbd\\.gitgnore||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F6A29F5-998F-4CB5-A17A-1C9F95DC466C}|ImagensBD\\ImagensBD.csproj|e:\\csharp\\imagensbd\\imagensbd\\listar2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F6A29F5-998F-4CB5-A17A-1C9F95DC466C}|ImagensBD\\ImagensBD.csproj|solutionrelative:imagensbd\\listar2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F6A29F5-998F-4CB5-A17A-1C9F95DC466C}|ImagensBD\\ImagensBD.csproj|E:\\CSharp\\ImagensBD\\imagensbd\\listar2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0F6A29F5-998F-4CB5-A17A-1C9F95DC466C}|ImagensBD\\ImagensBD.csproj|solutionrelative:imagensbd\\listar2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F6A29F5-998F-4CB5-A17A-1C9F95DC466C}|ImagensBD\\ImagensBD.csproj|E:\\CSharp\\ImagensBD\\imagensbd\\adicionar2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F6A29F5-998F-4CB5-A17A-1C9F95DC466C}|ImagensBD\\ImagensBD.csproj|solutionrelative:imagensbd\\adicionar2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F6A29F5-998F-4CB5-A17A-1C9F95DC466C}|ImagensBD\\ImagensBD.csproj|E:\\CSharp\\ImagensBD\\imagensbd\\adicionar2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0F6A29F5-998F-4CB5-A17A-1C9F95DC466C}|ImagensBD\\ImagensBD.csproj|solutionrelative:imagensbd\\adicionar2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F6A29F5-998F-4CB5-A17A-1C9F95DC466C}|ImagensBD\\ImagensBD.csproj|E:\\CSharp\\ImagensBD\\imagensbd\\adicionar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F6A29F5-998F-4CB5-A17A-1C9F95DC466C}|ImagensBD\\ImagensBD.csproj|solutionrelative:imagensbd\\adicionar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\CSharp\\ImagensBD\\ImagensBD\\SQLQuery3.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ImagensBD\\SQLQuery3.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F6A29F5-998F-4CB5-A17A-1C9F95DC466C}|ImagensBD\\ImagensBD.csproj|E:\\CSharp\\ImagensBD\\imagensbd\\adicionar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0F6A29F5-998F-4CB5-A17A-1C9F95DC466C}|ImagensBD\\ImagensBD.csproj|solutionrelative:imagensbd\\adicionar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F6A29F5-998F-4CB5-A17A-1C9F95DC466C}|ImagensBD\\ImagensBD.csproj|E:\\CSharp\\ImagensBD\\imagensbd\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F6A29F5-998F-4CB5-A17A-1C9F95DC466C}|ImagensBD\\ImagensBD.csproj|solutionrelative:imagensbd\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F6A29F5-998F-4CB5-A17A-1C9F95DC466C}|ImagensBD\\ImagensBD.csproj|E:\\CSharp\\ImagensBD\\imagensbd\\listar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F6A29F5-998F-4CB5-A17A-1C9F95DC466C}|ImagensBD\\ImagensBD.csproj|solutionrelative:imagensbd\\listar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F6A29F5-998F-4CB5-A17A-1C9F95DC466C}|ImagensBD\\ImagensBD.csproj|E:\\CSharp\\ImagensBD\\imagensbd\\listar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0F6A29F5-998F-4CB5-A17A-1C9F95DC466C}|ImagensBD\\ImagensBD.csproj|solutionrelative:imagensbd\\listar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\CSharp\\ImagensBD\\ImagensBD\\SQLQuery2.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ImagensBD\\SQLQuery2.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F6A29F5-998F-4CB5-A17A-1C9F95DC466C}|ImagensBD\\ImagensBD.csproj|E:\\CSharp\\ImagensBD\\imagensbd\\sqlquery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{0F6A29F5-998F-4CB5-A17A-1C9F95DC466C}|ImagensBD\\ImagensBD.csproj|solutionrelative:imagensbd\\sqlquery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F6A29F5-998F-4CB5-A17A-1C9F95DC466C}|ImagensBD\\ImagensBD.csproj|E:\\CSharp\\ImagensBD\\imagensbd\\basedados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F6A29F5-998F-4CB5-A17A-1C9F95DC466C}|ImagensBD\\ImagensBD.csproj|solutionrelative:imagensbd\\basedados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F6A29F5-998F-4CB5-A17A-1C9F95DC466C}|ImagensBD\\ImagensBD.csproj|E:\\CSharp\\ImagensBD\\imagensbd\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0F6A29F5-998F-4CB5-A17A-1C9F95DC466C}|ImagensBD\\ImagensBD.csproj|solutionrelative:imagensbd\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitgnore",
+              "DocumentMoniker": "E:\\CSharp\\ImagensBD\\ImagensBD\\.gitgnore",
+              "RelativeDocumentMoniker": "ImagensBD\\.gitgnore",
+              "ToolTip": "E:\\CSharp\\ImagensBD\\ImagensBD\\.gitgnore",
+              "RelativeToolTip": "ImagensBD\\.gitgnore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-13T22:35:25.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "listar2.aspx.cs",
+              "DocumentMoniker": "E:\\CSharp\\ImagensBD\\ImagensBD\\listar2.aspx.cs",
+              "RelativeDocumentMoniker": "ImagensBD\\listar2.aspx.cs",
+              "ToolTip": "E:\\CSharp\\ImagensBD\\ImagensBD\\listar2.aspx.cs",
+              "RelativeToolTip": "ImagensBD\\listar2.aspx.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwBMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T21:00:03.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "listar2.aspx",
+              "DocumentMoniker": "E:\\CSharp\\ImagensBD\\ImagensBD\\listar2.aspx",
+              "RelativeDocumentMoniker": "ImagensBD\\listar2.aspx",
+              "ToolTip": "E:\\CSharp\\ImagensBD\\ImagensBD\\listar2.aspx",
+              "RelativeToolTip": "ImagensBD\\listar2.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-01-13T20:59:50.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "adicionar2.aspx.cs",
+              "DocumentMoniker": "E:\\CSharp\\ImagensBD\\ImagensBD\\adicionar2.aspx.cs",
+              "RelativeDocumentMoniker": "ImagensBD\\adicionar2.aspx.cs",
+              "ToolTip": "E:\\CSharp\\ImagensBD\\ImagensBD\\adicionar2.aspx.cs",
+              "RelativeToolTip": "ImagensBD\\adicionar2.aspx.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowBUAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T20:51:21.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "adicionar2.aspx",
+              "DocumentMoniker": "E:\\CSharp\\ImagensBD\\ImagensBD\\adicionar2.aspx",
+              "RelativeDocumentMoniker": "ImagensBD\\adicionar2.aspx",
+              "ToolTip": "E:\\CSharp\\ImagensBD\\ImagensBD\\adicionar2.aspx",
+              "RelativeToolTip": "ImagensBD\\adicionar2.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-01-13T20:50:21.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SQLQuery3.sql",
+              "DocumentMoniker": "E:\\CSharp\\ImagensBD\\ImagensBD\\SQLQuery3.sql",
+              "RelativeDocumentMoniker": "ImagensBD\\SQLQuery3.sql",
+              "ToolTip": "E:\\CSharp\\ImagensBD\\ImagensBD\\SQLQuery3.sql",
+              "RelativeToolTip": "ImagensBD\\SQLQuery3.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-01-13T19:47:02.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "listar.aspx.cs",
+              "DocumentMoniker": "E:\\CSharp\\ImagensBD\\ImagensBD\\listar.aspx.cs",
+              "RelativeDocumentMoniker": "ImagensBD\\listar.aspx.cs",
+              "ToolTip": "E:\\CSharp\\ImagensBD\\ImagensBD\\listar.aspx.cs",
+              "RelativeToolTip": "ImagensBD\\listar.aspx.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBMAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T19:23:21.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SQLQuery2.sql",
+              "DocumentMoniker": "E:\\CSharp\\ImagensBD\\ImagensBD\\SQLQuery2.sql",
+              "RelativeDocumentMoniker": "ImagensBD\\SQLQuery2.sql",
+              "ToolTip": "E:\\CSharp\\ImagensBD\\ImagensBD\\SQLQuery2.sql",
+              "RelativeToolTip": "ImagensBD\\SQLQuery2.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-01-13T19:22:24.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SQLQuery1.sql ",
+              "DocumentMoniker": "E:\\CSharp\\ImagensBD\\ImagensBD\\SQLQuery1.sql",
+              "RelativeDocumentMoniker": "ImagensBD\\SQLQuery1.sql",
+              "ToolTip": "E:\\CSharp\\ImagensBD\\ImagensBD\\SQLQuery1.sql",
+              "RelativeToolTip": "ImagensBD\\SQLQuery1.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-01-13T19:15:17.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Utils.cs",
+              "DocumentMoniker": "E:\\CSharp\\ImagensBD\\ImagensBD\\Utils.cs",
+              "RelativeDocumentMoniker": "ImagensBD\\Utils.cs",
+              "ToolTip": "E:\\CSharp\\ImagensBD\\ImagensBD\\Utils.cs",
+              "RelativeToolTip": "ImagensBD\\Utils.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwD8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T19:12:15.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Web.config",
+              "DocumentMoniker": "E:\\CSharp\\ImagensBD\\ImagensBD\\Web.config",
+              "RelativeDocumentMoniker": "ImagensBD\\Web.config",
+              "ToolTip": "E:\\CSharp\\ImagensBD\\ImagensBD\\Web.config",
+              "RelativeToolTip": "ImagensBD\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-01-13T19:01:15.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BaseDados.cs",
+              "DocumentMoniker": "E:\\CSharp\\ImagensBD\\ImagensBD\\BaseDados.cs",
+              "RelativeDocumentMoniker": "ImagensBD\\BaseDados.cs",
+              "ToolTip": "E:\\CSharp\\ImagensBD\\ImagensBD\\BaseDados.cs",
+              "RelativeToolTip": "ImagensBD\\BaseDados.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwI0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T19:00:52.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "adicionar.aspx.cs",
+              "DocumentMoniker": "E:\\CSharp\\ImagensBD\\ImagensBD\\adicionar.aspx.cs",
+              "RelativeDocumentMoniker": "ImagensBD\\adicionar.aspx.cs",
+              "ToolTip": "E:\\CSharp\\ImagensBD\\ImagensBD\\adicionar.aspx.cs",
+              "RelativeToolTip": "ImagensBD\\adicionar.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T19:00:11.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "listar.aspx",
+              "DocumentMoniker": "E:\\CSharp\\ImagensBD\\ImagensBD\\listar.aspx",
+              "RelativeDocumentMoniker": "ImagensBD\\listar.aspx",
+              "ToolTip": "E:\\CSharp\\ImagensBD\\ImagensBD\\listar.aspx",
+              "RelativeToolTip": "ImagensBD\\listar.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-01-13T18:57:15.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "adicionar.aspx",
+              "DocumentMoniker": "E:\\CSharp\\ImagensBD\\ImagensBD\\adicionar.aspx",
+              "RelativeDocumentMoniker": "ImagensBD\\adicionar.aspx",
+              "ToolTip": "E:\\CSharp\\ImagensBD\\ImagensBD\\adicionar.aspx",
+              "RelativeToolTip": "ImagensBD\\adicionar.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-01-13T18:57:06.179Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
