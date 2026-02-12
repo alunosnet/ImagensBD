@@ -69,6 +69,10 @@
   <ItemGroup>
     <Content Include="adicionar.aspx" />
     <Content Include="adicionar2.aspx" />
+    <Content Include="App_Data\imgbd.mdf" />
+    <Content Include="App_Data\imgbd_log.ldf">
+      <DependentUpon>imgbd.mdf</DependentUpon>
+    </Content>
     <Content Include="listar.aspx" />
     <Content Include="listar2.aspx" />
     <Content Include="SQLQuery1.sql" />
@@ -118,7 +122,6 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="App_Data\" />
     <Folder Include="Imagens\" />
   </ItemGroup>
   <PropertyGroup>
