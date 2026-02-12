@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/ImagensBD/FileContentIndex/3b5b6476-6754-46ce-ab64-bc488d0a8d7d.vsidx
+*.vsidx
+/ImagensBD/.vs/ImagensBD.csproj.dtbcache.json
+/ImagensBD/obj/Debug/ImagensBD.csproj.FileListAbsolute.txt
+/ImagensBD/obj/Debug/ImagensBD.dll
+/ImagensBD/obj/Debug/ImagensBD.pdb
